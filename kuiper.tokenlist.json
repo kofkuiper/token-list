@@ -1,0 +1,24 @@
+{
+    "name": "Kuiper Swap",
+    "logoURI": "https://raw.githubusercontent.com/kofkuiper/token-list/main/assets/PLUTO.png",
+    "keywords": [
+        "kuiperswap",
+        "defi"
+    ],
+    "timestamp": "2022-08-16T14:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 16888,
+            "address": "0x5Cf686E4e302749C3476f7cEF7885ac855Eb2512",
+            "name": "PLUTO Token",
+            "symbol": "PLUTO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kofkuiper/token-list/main/assets/PLUTO.png"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
